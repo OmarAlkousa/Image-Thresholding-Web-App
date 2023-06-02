@@ -27,7 +27,7 @@ All you have to do is to upload the image file.
 # Fast Example of the app
 st.markdown("### Import the image file")
 st.markdown("If you want a fast try of this app and you don't have any image file, you can download an example file that is in the same \
-            [**GitHub repository**](https://github.com/OmarAlkousa/Fourier-Analysis-as-Streamlit-Web-App/blob/main/example.csv) of the app.")
+            [**GitHub repository**](https://github.com/OmarAlkousa/Image-Thresholding-Web-App.git) of the app.")
 
 
 ###################
