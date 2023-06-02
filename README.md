@@ -1,6 +1,6 @@
 # Image Thresholding Web App
 
-[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omaralkousa-image-thresholding-web-ap-plication.streamlit.app/)
 
 Image thresholding is a process in image processing that involves converting a grayscale or color image into a binary image. The binary image contains only two pixel values, typically black and white, based on a threshold value. The threshold value is a scalar value that is used to differentiate between the pixels that belong to the foreground of the image and those that belong to the background. There are two major approaches of thresholding: global and local thresholding. The first method involves selecting a single threshold value for the entire image based on the histogram of the pixel intensities. Whereas the latter involves selecting a threshold value for each pixel based on the local intensities of neighboring pixels.
 
